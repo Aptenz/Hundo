@@ -55,12 +55,18 @@ footer .social>a:hover{
     color: var(--primary-color);
 }
 
+.logoFont {
+    font-family: 'Squada One', cursive;
+}
+
 code[class*="language-"],
         pre[class*="language-"] {
         white-space: pre-wrap;
         word-break: break-all;
         word-wrap: break-word;
         }
+
+
 
 main>.container {
     padding: 60px 15px 0;
